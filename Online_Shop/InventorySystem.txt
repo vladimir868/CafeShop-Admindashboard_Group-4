@@ -1,0 +1,56 @@
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 423
+Category: 423
+Price: 1
+Stock: 1
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: 3
+Category: 432
+Price: 4
+Stock: 4
+--------------------------
+*****NEW PRODUCT*****
+--------------------------
+Product Name: milo
+Category: powder
+Price: 12
+Stock: 12
+--------------------------
